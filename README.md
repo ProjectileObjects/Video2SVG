@@ -70,7 +70,7 @@ Once all dependencies are installed and the script is downloaded, you can run th
 
 1. Navigate to the directory where you saved the application script.
 2. Run the following command:
-       python3 video_converter_app.py
+       python3 Video2SVGv2.py
 
 The application window should now appear on your screen.
 
